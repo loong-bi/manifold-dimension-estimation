@@ -3,7 +3,7 @@
 This repository contains the Python code used in the following research articles:
 
 - **Manifold Dimension Estimation: An Empirical Study**
-- **Beyond PCA: Two Curvature-Aware Manifold Dimension Estimators through Quadratic Embedding**
+- **Beyond PCA: Manifold Dimension Estimation via Local Graph Structure**
 
 The code implements various algorithms and tools for estimating the intrinsic dimension of data lying on a manifold, including curvature-aware methods.
 
@@ -28,8 +28,8 @@ The code implements various algorithms and tools for estimating the intrinsic di
    *Bi, Zelong and Pierre Lafaye de Micheaux*  
    [Link or DOI]
 
-2. **Beyond PCA: Two Curvature-Aware Manifold Dimension Estimators through Quadratic Embedding**  
-   *(Author list)*  
+2. **Beyond PCA: Manifold Dimension Estimation via Local Graph Structure**  
+   *Bi, Zelong and Pierre Lafaye de Micheaux*  
    [Link or DOI]
 
 ## 📬 Contact
