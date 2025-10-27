@@ -19,6 +19,7 @@ The code implements various algorithms and tools for estimating the intrinsic di
 | - `run_curvarture_01_new.py`<br>- `run_curvarture_02_new.py`<br>- `run_curvarture_03_new.py` | Benchmark Dimension Estimates versus Different Aspects of Curvature. |
 | `run_nc_new.py` | Demonstrate Noise-Curvature Dilemma Effect. |
 | - `run_new_uniform_500.py`<br>- `run_new_uniform_2000.py`<br>- `run_new_nonuniform_500.py`<br>- `run_new_nonuniform_2000.py`<br>- `run_new_noise_500.py`<br>- `run_new_noise_2000.py` | Compare Dimension Estimates across Simulated Datasets. |
+| - `run_new_manifolds_500.py`<br>- `run_new_manifolds_2000.py`| Compare Dimension Estimates on Simulated, Nonlinearly Embedded Manifolds. |
 | - `run_isomap.py`<br>- `run_mnist.py`<br>- `run_isolet.py` | Compare Dimension Estimates across Real-world Datasets. |
 | - `tle.cpp`<br>- `estimators.R`<br>- `DanCo.R`<br>- `faces.R`<br>- `digits.R`<br>- `isolet.R` | R implementation of the estimators, along with testing on real-world datasets. |
 
